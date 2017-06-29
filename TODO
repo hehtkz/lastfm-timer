@@ -1,0 +1,8 @@
+* Escrever uma função para fazer o papel de get_musicas e get_artists, 
+recebendo como parâmetro o método a ser utilizado (toptracks para as 
+músicas etopartists para os artistas).  
+* Separar as músicas que vem com a duração zerada e consultá-las 
+separadamente (acho que esse processo será bastante demorado, melhor 
+deixar isso por último).
+* Calcular o tempo médio por música.
+* Fazer uma interface web (por enquanto quero fazer com django).
